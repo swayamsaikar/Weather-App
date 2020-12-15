@@ -1,4 +1,4 @@
-# This App is Made on [Snack](https://expo.io)
+# This Weather App is Made on [Snack](https://expo.io) By Swayam Sai Kar
 App's design is inspired by the Youtube Channel [Belgin Android](https://www.youtube.com/channel/UCGcTLfWM_oRBvTVhreACXrg).
 The Api is used from [OpenWeatherMap](https://openweathermap.org/).
 BackgroundImage of the app is used from [pinterest](https://in.pinterest.com/pin/563512972121063231/).
